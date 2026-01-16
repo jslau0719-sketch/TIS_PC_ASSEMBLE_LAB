@@ -14,7 +14,7 @@ This lab for Technology and Information System(SECP1513) is mainly focus on the 
 - how to assemble a computer in correct sequences
 
 # Reflecion
-## Obstacle
+### Obstacle
 The sequence to build up each part is vital throughout the whole assemble phase.
-## How this lab activity helped me
+### How this lab activity helped me
 From this lab activity, I learned the basic architecture and role of each componenet such as CPU, ram, power supply and so on. 
